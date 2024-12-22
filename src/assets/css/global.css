@@ -1,0 +1,13 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+} 
